@@ -4,4 +4,6 @@ $(document).ready(function(){
   
     
     $('#CEP').mask('00000-000');
+
+    $('#telefone').mask('(00) 00000-0000');
 })
